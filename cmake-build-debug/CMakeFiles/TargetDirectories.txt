@@ -1,0 +1,3 @@
+D:/github/opencv/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/github/opencv/cmake-build-debug/CMakeFiles/opencv.dir
+D:/github/opencv/cmake-build-debug/CMakeFiles/rebuild_cache.dir

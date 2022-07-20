@@ -1,0 +1,13 @@
+"D:\Clion\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\github\opencv
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: mingw
+-- OpenCV STATIC: OFF
+-- Found OpenCV 4.6.0 in D:/github/makeopencv/build/install/x64/mingw/lib
+-- You might need to add D:/github/makeopencv/build/install/x64/mingw/bin to your PATH to be able to run your applications.
+-- OpenCV library status:
+-- version: 4.6.0
+-- libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_world
+-- include path: D:/github/makeopencv/build/install/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/github/opencv/cmake-build-debug
