@@ -1,7 +1,7 @@
-import cv2
+import code.python.part1 as p1
 
 if __name__ == '__main__':
-    a = cv2.imread(r'..\..\image\test.jpg')
-    print(123)
-    cv2.imshow("hg", a)
-    cv2.waitKey(0)
+    # p1.fun1()
+    # p1.fun2()
+    # p1.fun3()
+    p1.fun4()

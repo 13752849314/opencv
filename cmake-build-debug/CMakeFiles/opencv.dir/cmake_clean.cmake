@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/opencv.dir/code/c++/main.cpp.obj"
+  "CMakeFiles/opencv.dir/code/c++/part1.cpp.obj"
   "libopencv.dll.a"
   "opencv.exe"
   "opencv.exe.manifest"

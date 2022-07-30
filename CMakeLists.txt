@@ -3,7 +3,11 @@ project(opencv)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(opencv code/c++/main.cpp)
+add_executable(opencv
+        code/c++/main.cpp
+        code/c++/part1.h
+        code/c++/part1.cpp
+        )
 
 set(OpenCV_DIR D:/github/makeopencv/build/install) # 编译好的
 find_package(OpenCV REQUIRED)

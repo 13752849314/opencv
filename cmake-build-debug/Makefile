@@ -149,6 +149,33 @@ code/c++/main.cpp.s:
 	$(MAKE) -f CMakeFiles\opencv.dir\build.make CMakeFiles/opencv.dir/code/c++/main.cpp.s
 .PHONY : code/c++/main.cpp.s
 
+code/c++/part1.obj: code/c++/part1.cpp.obj
+
+.PHONY : code/c++/part1.obj
+
+# target to build an object file
+code/c++/part1.cpp.obj:
+	$(MAKE) -f CMakeFiles\opencv.dir\build.make CMakeFiles/opencv.dir/code/c++/part1.cpp.obj
+.PHONY : code/c++/part1.cpp.obj
+
+code/c++/part1.i: code/c++/part1.cpp.i
+
+.PHONY : code/c++/part1.i
+
+# target to preprocess a source file
+code/c++/part1.cpp.i:
+	$(MAKE) -f CMakeFiles\opencv.dir\build.make CMakeFiles/opencv.dir/code/c++/part1.cpp.i
+.PHONY : code/c++/part1.cpp.i
+
+code/c++/part1.s: code/c++/part1.cpp.s
+
+.PHONY : code/c++/part1.s
+
+# target to generate assembly for a file
+code/c++/part1.cpp.s:
+	$(MAKE) -f CMakeFiles\opencv.dir\build.make CMakeFiles/opencv.dir/code/c++/part1.cpp.s
+.PHONY : code/c++/part1.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -161,6 +188,9 @@ help:
 	@echo ... code/c++/main.obj
 	@echo ... code/c++/main.i
 	@echo ... code/c++/main.s
+	@echo ... code/c++/part1.obj
+	@echo ... code/c++/part1.i
+	@echo ... code/c++/part1.s
 .PHONY : help
 
 

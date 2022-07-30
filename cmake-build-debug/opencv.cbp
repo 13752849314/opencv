@@ -85,6 +85,12 @@
 		<Unit filename="D:/github/opencv/code/c++/main.cpp">
 			<Option target="opencv"/>
 		</Unit>
+		<Unit filename="D:/github/opencv/code/c++/part1.cpp">
+			<Option target="opencv"/>
+		</Unit>
+		<Unit filename="D:/github/opencv/code/c++/part1.h">
+			<Option target="opencv"/>
+		</Unit>
 		<Unit filename="D:/github/opencv/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

@@ -1029,6 +1029,12 @@ D:/github/makeopencv/build/install/include/opencv2/opencv2/core.hpp
 D:/github/opencv/code/c++/main.cpp
 iostream
 -
+part1.h
+D:/github/opencv/code/c++/part1.h
+
+D:/github/opencv/code/c++/part1.h
+iostream
+-
 opencv2/opencv.hpp
 -
 opencv2/highgui.hpp
