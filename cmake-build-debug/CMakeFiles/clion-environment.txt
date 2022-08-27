@@ -1,4 +1,4 @@
-ToolSet: w64 6.0 (local)@D:\Clion\mingw64
+ToolSet: w64 6.0 (local)@D:\Clion_poj\mingw64
 Options: 
 
 Options:

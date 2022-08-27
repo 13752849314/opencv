@@ -1,17 +1,15 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
   )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/github/opencv/code/c++/main.cpp" "D:/github/opencv/cmake-build-debug/CMakeFiles/opencv.dir/code/c++/main.cpp.obj"
-  "D:/github/opencv/code/c++/part1.cpp" "D:/github/opencv/cmake-build-debug/CMakeFiles/opencv.dir/code/c++/part1.cpp.obj"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
 
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "D:/github/makeopencv/build/install/include"
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "D:/github/opencv/code/c++/main.cpp" "CMakeFiles/opencv.dir/code/c++/main.cpp.obj" "gcc" "CMakeFiles/opencv.dir/code/c++/main.cpp.obj.d"
+  "D:/github/opencv/code/c++/part1.cpp" "CMakeFiles/opencv.dir/code/c++/part1.cpp.obj" "gcc" "CMakeFiles/opencv.dir/code/c++/part1.cpp.obj.d"
   )
 
 # Targets to which this target links.

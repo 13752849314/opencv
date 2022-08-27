@@ -1,3 +1,3 @@
-"D:\Clion\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\opencv.dir/objects.a
-D:\Clion\mingw64\bin\ar.exe cr CMakeFiles\opencv.dir/objects.a @CMakeFiles\opencv.dir\objects1.rsp
-D:\Clion\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\opencv.dir/objects.a -Wl,--no-whole-archive  -o opencv.exe -Wl,--out-implib,libopencv.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\opencv.dir\linklibs.rsp
+D:\jetbrains\apps\CLion\ch-0\213.7172.20\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\opencv.dir/objects.a
+D:\Clion_poj\mingw64\bin\ar.exe qc CMakeFiles\opencv.dir/objects.a @CMakeFiles\opencv.dir\objects1.rsp
+D:\Clion_poj\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\opencv.dir/objects.a -Wl,--no-whole-archive -o opencv.exe -Wl,--out-implib,libopencv.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\opencv.dir\linklibs.rsp

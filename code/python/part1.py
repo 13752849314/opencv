@@ -71,7 +71,7 @@ def fun3():
 
 
 def fun4():
-    from code.python.utils import read_video, save_video
+    from opencv.code.python.utils import read_video, save_video
     frames, parameters = read_video(r'D:\github\opencv\video\test.mp4')
     save_video(r'../../video/save.mp4',
                frames,

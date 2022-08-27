@@ -111,4 +111,27 @@ if __name__ == '__main__':
     cv2.waitKey(0)
 
 ```
-5-5
+## 文本
+api
+```python
+def putText(img: Any,
+            text: Any, # 文本
+            org: Any, # 起始位置
+            fontFace: Any, # 字体
+            fontScale: Any, # 字号
+            color: Any, # 颜色
+            thickness: Any = None,
+            lineType: Any = None)
+```
+example
+```python
+import cv2
+
+if __name__ == '__main__':
+    img = cv2.imread(r'../../../image/test.png')
+    cv2.putText(img, 'hello world!', (10, 400), cv2.FONT_HERSHEY_PLAIN, 1, (255, 0, 0))
+    cv2.imshow('polyline', img)
+    cv2.waitKey(0)
+
+
+```
