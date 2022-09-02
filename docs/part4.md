@@ -212,4 +212,3 @@ cv2.imshow('result', result)
 cv2.waitKey(0)
 
 ```
-8-3
